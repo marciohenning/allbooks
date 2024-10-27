@@ -6,7 +6,7 @@ name: Workflow de Integração Contínua
 on:
  
   pull_request:
-    branches: [ "main" , "altera-servidor" ]
+    branches: [ "main"  ]
 
 jobs:
  testes:
